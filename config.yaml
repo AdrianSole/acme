@@ -21,7 +21,18 @@ menu:
       name: Contacto 
       url: /contacto 
       weight: 200 
+    - identifier: curriculum
+      name: Curriculum
+      url: /curriculum
+      weight: 50
+    - identifier: viajes
+      name: Viajes
+      url: /viajes
+      weight: 40
+    
+
 params: 
+  colorPickerEnabled: true
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
   footer:
