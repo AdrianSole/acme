@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: http://localhost/acme
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: Eclectic
@@ -28,7 +28,11 @@ menu:
     - identifier: viajes
       name: Viajes
       url: /viajes
-      weight: 40
+      weight: 300
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 400
     
 
 params: 
