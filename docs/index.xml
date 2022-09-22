@@ -8,9 +8,46 @@
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate>
     
         <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+<title>Paris</title>
+<link>/acme/viajes/paris/</link>
+<pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/paris/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Pirineo</title>
+<link>/acme/viajes/pirineo/</link>
+<pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>/acme/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:53:47 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>/acme/contacto/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/contacto/</guid>
+<description></description>
+<category></category></item>
     
   </channel>
 </rss>

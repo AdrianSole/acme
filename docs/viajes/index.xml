@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on ACME Servicios Tecno</title>
+    <link>/acme/viajes/</link>
+    <description>Recent content in Viajes on ACME Servicios Tecno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paris</title>
+      <link>/acme/viajes/paris/</link>
+      <pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>/acme/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/acme/viajes/pirineo/</guid>
+      <description>Tienes en mente un viaje a los Pirineos? Da igual que sea en invierno o en verano, si eres amante de la naturaleza, ya te adelantamos que en esta zona de Aragón vas a poder disfrutar de paisajes alucinantes. Un acierto seguro para desconectar con planes más allá del esquí. Te lo decimos por experiencia. Te hemos preparado 5 rutas en coche con las mejores cosas que ver y hacer en el Pirineo Aragonés: miradores, naturaleza, hoteles con encanto, pueblos bonitos… ¿A que dan ganas de irse ya mismo?</description>
+    </item>
+    
+  </channel>
+</rss>
