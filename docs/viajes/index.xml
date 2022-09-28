@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Viajes on ACME Servicios Tecno</title>
-    <link>/acme/viajes/</link>
-    <description>Recent content in Viajes on ACME Servicios Tecno</description>
+    <title>Mis viajes on ACME Servicios Tecno</title>
+    <link>http://localhost/viajes/</link>
+    <description>Recent content in Mis viajes on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate><atom:link href="http://localhost/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paris</title>
-      <link>/acme/viajes/paris/</link>
+      <title>Dublin</title>
+      <link>http://localhost/viajes/dublin/</link>
       <pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/paris/</guid>
-      <description></description>
+      <guid>http://localhost/viajes/dublin/</guid>
+      <description>Viaje a Dublin Bienvenido a Dublín, una ciudad tan íntima como un pueblo y tan acogedora como un pub irlandés. Enmarcadas por montañas, centradas en un río y bordeadas por una hermosa bahía, las calles y callejuelas de la ciudad están repletas de animados edificios artísticos e históricos, cafeterías de moda y pubs tradicionales. Pasea por las calles y siente la energía de más de 1.000 años de historia: ecos de los vikingos se mezclan con concurridas boutiques, calles adoquinadas resuenan con las melodías de los músicos callejeros y parques del siglo XVIII albergan festivales, sesiones de cine y mercados gastronómicos.</description>
     </item>
     
     <item>
-      <title>Pirineo</title>
-      <link>/acme/viajes/pirineo/</link>
+      <title>Amsterdam</title>
+      <link>http://localhost/viajes/amsterdam/</link>
       <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/pirineo/</guid>
-      <description>Tienes en mente un viaje a los Pirineos? Da igual que sea en invierno o en verano, si eres amante de la naturaleza, ya te adelantamos que en esta zona de Aragón vas a poder disfrutar de paisajes alucinantes. Un acierto seguro para desconectar con planes más allá del esquí. Te lo decimos por experiencia. Te hemos preparado 5 rutas en coche con las mejores cosas que ver y hacer en el Pirineo Aragonés: miradores, naturaleza, hoteles con encanto, pueblos bonitos… ¿A que dan ganas de irse ya mismo?</description>
+      <guid>http://localhost/viajes/amsterdam/</guid>
+      <description>Viaja a Amsterdam La mágica Ciudad de Amsterdam combina sus extensos canales y numerosos puentes con la original arquitectura de los siglos XVI y XVII concentrados en una pequeña superficie. Las obras de famosos artistas como Rembrandt y Van Gogh se pueden admirar en los Museos de Amsterdam y caminando la ciudad Amsterdam nos ofrece la historia viva de una de las ciudades mas bellas y románticas de Europa.
+Amsterdam es una ciudad abierta y tolerante, combina una sólida cultura con gentes de hábitos sencillos.</description>
+    </item>
+    
+    <item>
+      <title>Berlin</title>
+      <link>http://localhost/viajes/berlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/viajes/berlin/</guid>
+      <description>Viaja a Berlin ¡No se lo puede perder! Berlín tiene mucho que ofrecer además de sus principales atracciones turísticas.
+Puede por ejemplo explorar las huellas de la historia en las urbanizaciones modernistas, que son Patrimonio de la Humanidad de la UNESCO. Cada tres años, el gran festival suprarregional de la cultura de la construcción, la Triennale der Moderne, se centra en la arquitectura modernista de Berlín.
+Berlín es también una ciudad donde ir de compras: además de las tiendas de lujo en el Kurfürstendamm, también encontrará numerosos mercados callejeros en la capital.</description>
     </item>
     
   </channel>

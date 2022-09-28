@@ -1,51 +1,96 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ACME Servicios Tecno</title>
-    <link>/acme/</link>
-    <description>Recent content on ACME Servicios Tecno</description>
+    <title>ACME Corp. on ACME Servicios Tecno</title>
+    <link>http://localhost/</link>
+    <description>Recent content in ACME Corp. on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate>
     
-        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<title>Paris</title>
-<link>/acme/viajes/paris/</link>
+<title>Dublin</title>
+<link>http://localhost/viajes/dublin/</link>
 <pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/paris/</guid>
+      <guid>http://localhost/viajes/dublin/</guid>
 <description></description>
 <category></category></item>
     
     <item>
-<title>Pirineo</title>
-<link>/acme/viajes/pirineo/</link>
+<title>Amsterdam</title>
+<link>http://localhost/viajes/amsterdam/</link>
 <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/pirineo/</guid>
+      <guid>http://localhost/viajes/amsterdam/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Curriculum</title>
-<link>/acme/curriculum/</link>
+<link>http://localhost/curriculum/</link>
 <pubDate>Wed, 21 Sep 2022 08:53:47 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/curriculum/</guid>
+      <guid>http://localhost/curriculum/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>/acme/contacto/</link>
+<link>http://localhost/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/contacto/</guid>
+      <guid>http://localhost/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://localhost/blog/entrada1/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/blog/entrada1/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://localhost/blog/entrada2/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/blog/entrada2/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://localhost/blog/entrada3/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/blog/entrada3/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Berlin</title>
+<link>http://localhost/viajes/berlin/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/viajes/berlin/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>http://localhost/contacto/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://localhost/contacto/</guid>
 <description></description>
 <category></category></item>
     
