@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/</loc>
+    <loc>/acme/</loc>
     <lastmod>2022-09-21T09:44:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/viajes/dublin/</loc>
+    <loc>/acme/viajes/dublin/</loc>
     <lastmod>2022-09-21T09:44:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/viajes/</loc>
+    <loc>/acme/viajes/</loc>
     <lastmod>2022-09-21T09:44:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/viajes/amsterdam/</loc>
+    <loc>/acme/viajes/amsterdam/</loc>
     <lastmod>2022-09-21T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/curriculum/</loc>
+    <loc>/acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/about/</loc>
+    <loc>/acme/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost/blog/entrada1/</loc>
+    <loc>/acme/viajes/berlin/</loc>
   </url><url>
-    <loc>http://localhost/blog/entrada2/</loc>
+    <loc>/acme/blog/</loc>
   </url><url>
-    <loc>http://localhost/blog/entrada3/</loc>
+    <loc>/acme/categories/</loc>
   </url><url>
-    <loc>http://localhost/viajes/berlin/</loc>
+    <loc>/acme/contacto/</loc>
   </url><url>
-    <loc>http://localhost/blog/</loc>
+    <loc>/acme/blog/entrada1/</loc>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>/acme/blog/entrada2/</loc>
   </url><url>
-    <loc>http://localhost/contacto/</loc>
+    <loc>/acme/blog/entrada3/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>/acme/tags/</loc>
   </url>
 </urlset>

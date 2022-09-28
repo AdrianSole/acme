@@ -1,3 +1,9 @@
+---
+title: "Entrada 2"
+draft: false
+---
+
+
 ## ¿Porque utilizar markdown?
 ---
 

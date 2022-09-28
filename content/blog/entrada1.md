@@ -1,3 +1,8 @@
+---
+title: "Entrada 1"
+draft: false
+---
+
 ## Markdown
 ---
 Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
