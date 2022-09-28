@@ -8,4 +8,4 @@ draft: false
 
 No se va a publicar
 
-![Imagen](https://img.freepik.com/free-vector/teacher-standing-near-blackboard-holding-stick-isolated-flat-vector-illustration-cartoon-woman-character-near-chalkboard-pointing-alphabet_74855-8600.jpg?w=2000)
+![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsA39fi4bO4XZhl0ymgZXBa47ahoFKbhEkJNIpMcsq0m-R8EusiQC6ZwMFcS7EjzxHIgQ&usqp=CAU)
