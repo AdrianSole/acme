@@ -1,4 +1,4 @@
-baseURL: http://localhost/acme
+baseURL: http://localhost/
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: Eclectic
