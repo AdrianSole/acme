@@ -2,6 +2,8 @@
 title: "Dublin"
 date: 2022-09-21T09:44:54+02:00
 draft: false
+lat: 53.350140
+lon: -6.266155
 ---
 
 # Viaje a Dublin
