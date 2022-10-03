@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <h2>Datos TV</h2>
+
+    <ul class="list-group">
+    {{ range .Site.Data.fiestas }}
+        <li >{{ .title }}</li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
