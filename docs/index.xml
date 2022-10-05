@@ -1,98 +1,147 @@
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corp. on ACME Servicios Tecno</title>
-    <link>/acme/</link>
+    <link>acme/</link>
     <description>Recent content in ACME Corp. on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:44:54 +0200</lastBuildDate>
-    
-        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 29 Sep 2022 12:24:45 +0200</lastBuildDate><atom:link href="acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institutos</title>
+      <link>acme/institutos/</link>
+      <pubDate>Mon, 03 Oct 2022 10:42:34 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/institutos/</guid>
+      <description></description>
+    </item>
     
     <item>
-<title>Dublin</title>
-<link>/acme/viajes/dublin/</link>
-<pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
+      <title>Contributors</title>
+      <link>acme/contributors/</link>
+      <pubDate>Mon, 03 Oct 2022 10:18:24 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/dublin/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/contributors/</guid>
+      <description></description>
+    </item>
     
     <item>
-<title>Amsterdam</title>
-<link>/acme/viajes/amsterdam/</link>
-<pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <title>Peliculas</title>
+      <link>acme/peliculas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:16:23 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/amsterdam/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/peliculas/</guid>
+      <description>Ranking top 250 IMDb </description>
+    </item>
     
     <item>
-<title>Curriculum</title>
-<link>/acme/curriculum/</link>
-<pubDate>Wed, 21 Sep 2022 08:53:47 +0200</pubDate>
+      <title>Canales</title>
+      <link>acme/television/canales/</link>
+      <pubDate>Thu, 29 Sep 2022 12:24:45 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/curriculum/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/television/canales/</guid>
+      <description>CANALES DE TELEVISIÓN bla bla bla</description>
+    </item>
     
     <item>
-<title></title>
-<link>/acme/about/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Dublin</title>
+      <link>acme/viajes/dublin/</link>
+      <pubDate>Wed, 21 Sep 2022 09:44:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/about/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/viajes/dublin/</guid>
+      <description>Viaje a Dublin Bienvenido a Dublín, una ciudad tan íntima como un pueblo y tan acogedora como un pub irlandés. Enmarcadas por montañas, centradas en un río y bordeadas por una hermosa bahía, las calles y callejuelas de la ciudad están repletas de animados edificios artísticos e históricos, cafeterías de moda y pubs tradicionales. Pasea por las calles y siente la energía de más de 1.000 años de historia: ecos de los vikingos se mezclan con concurridas boutiques, calles adoquinadas resuenan con las melodías de los músicos callejeros y parques del siglo XVIII albergan festivales, sesiones de cine y mercados gastronómicos.</description>
+    </item>
     
     <item>
-<title>Berlin</title>
-<link>/acme/viajes/berlin/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Amsterdam</title>
+      <link>acme/viajes/amsterdam/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/berlin/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/viajes/amsterdam/</guid>
+      <description>Viaja a Amsterdam La mágica Ciudad de Amsterdam combina sus extensos canales y numerosos puentes con la original arquitectura de los siglos XVI y XVII concentrados en una pequeña superficie. Las obras de famosos artistas como Rembrandt y Van Gogh se pueden admirar en los Museos de Amsterdam y caminando la ciudad Amsterdam nos ofrece la historia viva de una de las ciudades mas bellas y románticas de Europa.
+Amsterdam es una ciudad abierta y tolerante, combina una sólida cultura con gentes de hábitos sencillos.</description>
+    </item>
     
     <item>
-<title>Contacto</title>
-<link>/acme/contacto/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Curriculum</title>
+      <link>acme/curriculum/</link>
+      <pubDate>Wed, 21 Sep 2022 08:53:47 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/contacto/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/curriculum/</guid>
+      <description>Mi curriculum No se va a publicar</description>
+    </item>
     
     <item>
-<title>Entrada 1</title>
-<link>/acme/blog/entrada1/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>acme/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/blog/entrada1/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/about/</guid>
+      <description>Sobre ACME-CORPORATION La Corporación Acme es una empresa ficticia que existe en el universo de los Looney Tunes. Apareció la mayor cantidad de veces en las caricaturas de El Coyote y el Correcaminos, que hicieron famosa a Acme por sus productos peligrosos y poco reales, los cuales fallaban catastróficamente de las peores maneras.
+La primera aparición de la corporación Acme fue en una caricatura de uno de los Looney Tunes del personaje Buddy, llamada Buddy&amp;rsquo;s Bug Hunt.</description>
+    </item>
     
     <item>
-<title>Entrada 2</title>
-<link>/acme/blog/entrada2/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Berlin</title>
+      <link>acme/viajes/berlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/blog/entrada2/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/viajes/berlin/</guid>
+      <description>Viaja a Berlin ¡No se lo puede perder! Berlín tiene mucho que ofrecer además de sus principales atracciones turísticas.
+Puede por ejemplo explorar las huellas de la historia en las urbanizaciones modernistas, que son Patrimonio de la Humanidad de la UNESCO. Cada tres años, el gran festival suprarregional de la cultura de la construcción, la Triennale der Moderne, se centra en la arquitectura modernista de Berlín.
+Berlín es también una ciudad donde ir de compras: además de las tiendas de lujo en el Kurfürstendamm, también encontrará numerosos mercados callejeros en la capital.</description>
+    </item>
     
     <item>
-<title>Entrada 3</title>
-<link>/acme/blog/entrada3/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Contacto</title>
+      <link>acme/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/blog/entrada3/</guid>
-<description></description>
-<category></category></item>
+      <guid>acme/contacto/</guid>
+      <description>Nombre: Adrián Solé
+Dirección:    Correo adrimaella@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Entrada 1</title>
+      <link>acme/blog/entrada1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entrada1/</guid>
+      <description>Markdown  Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
+Pero no estoy hablando solo de blogs o páginas web. Servicios como Trello o foros como Stackoverflow también soportan este lenguaje, y con el paso del tiempo encontrarás aún más lugares que lo utilicen.
+Además, Markdown está cada vez más extendido en el mundo “offline”.</description>
+    </item>
+    
+    <item>
+      <title>Entrada 2</title>
+      <link>acme/blog/entrada2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entrada2/</guid>
+      <description>¿Porque utilizar markdown?  Como acabas de ver hace un momento, este lenguaje de marcado está basado en un formato de texto plano.
+Este tipo de formato siempre será compatible con todas las plataformas que utilices, así que utilizar Markdown es una manera de mantener todo tu contenido siempre accesible desde cualquier dispositivo (smartphones, ordenadores de escritorio, tablets…), ya que en cualquiera de ellas siempre encontrarás las aplicaciones adecuadas para leer y editar este tipo de contenido.</description>
+    </item>
+    
+    <item>
+      <title>Entrada 3</title>
+      <link>acme/blog/entrada3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entrada3/</guid>
+      <description>Git  Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto.</description>
+    </item>
+    
+    <item>
+      <title>Pilar</title>
+      <link>acme/fiestas/pilar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/fiestas/pilar/</guid>
+      <description>Pilar </description>
+    </item>
     
   </channel>
 </rss>
