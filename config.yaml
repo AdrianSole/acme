@@ -33,7 +33,18 @@ menu:
       name: Blog
       url: /blog
       weight: 400
-    
+    - identifier: peliculas
+      name: Peliculas
+      url: /peliculas
+      weight: 500
+    - identifier: contributors
+      name: Contributors
+      url: /contributors
+      weight: 600
+    - identifier: institutos
+      name: Institutos
+      url: /institutos
+      weight: 700
 
 params: 
   colorPickerEnabled: true

@@ -5,13 +5,13 @@
 
     <br/>
 
-    <ul class="list-group">
-    {{ range .Site.Data.datos_pelis }}
-        <li>
-            <a href="https://www.imdb.com{{ .url }}"><img class="img-fluid" src="{{ .img }}" alt="{{ .name }}"></a>
-            {{ .titulo }} - <b>{{ .ranking }}</b>
-        </li>
+    <div class="col-md-4">
+        <table class="table">
+        {{ range .Site.Data.datos_pelis }}
+        <tr><td><a href="https://www.imdb.com{{ .url }}"><img src="{{.img }}" alt="Imagen de {{.titulo}}"></a></td><td>{{ .titulo }}</td></tr>
         {{ end }}
-    </ul>
+        </table>
+    </div>
+
 </div>
 {{ end }}
