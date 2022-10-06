@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiestas on ACME Servicios Tecno</title>
-    <link>acme/fiestas/</link>
+    <link>https://adriansole.github.io/acme/fiestas/</link>
     <description>Recent content in Fiestas on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="acme/fiestas/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="https://adriansole.github.io/acme/fiestas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pilar</title>
-      <link>acme/fiestas/pilar/</link>
+      <link>https://adriansole.github.io/acme/fiestas/pilar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/fiestas/pilar/</guid>
+      <guid>https://adriansole.github.io/acme/fiestas/pilar/</guid>
       <description>Pilar </description>
     </item>
     

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on ACME Servicios Tecno</title>
-    <link>acme/blog/</link>
+    <link>https://adriansole.github.io/acme/blog/</link>
     <description>Recent content in Blogs on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
-    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="acme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="https://adriansole.github.io/acme/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entrada 1</title>
-      <link>acme/blog/entrada1/</link>
+      <link>https://adriansole.github.io/acme/blog/entrada1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entrada1/</guid>
+      <guid>https://adriansole.github.io/acme/blog/entrada1/</guid>
       <description>Markdown Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
 Pero no estoy hablando solo de blogs o páginas web. Servicios como Trello o foros como Stackoverflow también soportan este lenguaje, y con el paso del tiempo encontrarás aún más lugares que lo utilicen.
 Además, Markdown está cada vez más extendido en el mundo “offline”.</description>
@@ -21,20 +21,20 @@ Además, Markdown está cada vez más extendido en el mundo “offline”.</desc
     
     <item>
       <title>Entrada 2</title>
-      <link>acme/blog/entrada2/</link>
+      <link>https://adriansole.github.io/acme/blog/entrada2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entrada2/</guid>
+      <guid>https://adriansole.github.io/acme/blog/entrada2/</guid>
       <description>¿Porque utilizar markdown? Como acabas de ver hace un momento, este lenguaje de marcado está basado en un formato de texto plano.
 Este tipo de formato siempre será compatible con todas las plataformas que utilices, así que utilizar Markdown es una manera de mantener todo tu contenido siempre accesible desde cualquier dispositivo (smartphones, ordenadores de escritorio, tablets…), ya que en cualquiera de ellas siempre encontrarás las aplicaciones adecuadas para leer y editar este tipo de contenido.</description>
     </item>
     
     <item>
       <title>Entrada 3</title>
-      <link>acme/blog/entrada3/</link>
+      <link>https://adriansole.github.io/acme/blog/entrada3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entrada3/</guid>
+      <guid>https://adriansole.github.io/acme/blog/entrada3/</guid>
       <description>Git Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto. Los desarrolladores que han trabajado con Git cuentan con una buena representación en la base de talentos disponibles para el desarrollo de software, y este sistema funciona a la perfección en una amplia variedad de sistemas operativos e IDE (entornos de desarrollo integrados).</description>
     </item>
     

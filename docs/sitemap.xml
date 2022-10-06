@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>acme/institutos/</loc>
+    <loc>https://adriansole.github.io/acme/institutos/</loc>
     <lastmod>2022-10-03T10:42:34+02:00</lastmod>
   </url><url>
-    <loc>acme/contributors/</loc>
+    <loc>https://adriansole.github.io/acme/contributors/</loc>
     <lastmod>2022-10-03T10:18:24+02:00</lastmod>
   </url><url>
-    <loc>acme/peliculas/</loc>
+    <loc>https://adriansole.github.io/acme/peliculas/</loc>
     <lastmod>2022-10-03T09:16:23+02:00</lastmod>
   </url><url>
-    <loc>acme/</loc>
+    <loc>https://adriansole.github.io/acme/</loc>
     <lastmod>2022-09-29T12:24:45+02:00</lastmod>
   </url><url>
-    <loc>acme/television/canales/</loc>
+    <loc>https://adriansole.github.io/acme/television/canales/</loc>
     <lastmod>2022-09-29T12:24:45+02:00</lastmod>
   </url><url>
-    <loc>acme/television/</loc>
+    <loc>https://adriansole.github.io/acme/television/</loc>
     <lastmod>2022-09-29T12:24:45+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/dublin/</loc>
+    <loc>https://adriansole.github.io/acme/viajes/dublin/</loc>
     <lastmod>2022-09-21T09:44:54+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/</loc>
+    <loc>https://adriansole.github.io/acme/viajes/</loc>
     <lastmod>2022-09-21T09:44:54+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/amsterdam/</loc>
+    <loc>https://adriansole.github.io/acme/viajes/amsterdam/</loc>
     <lastmod>2022-09-21T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>acme/curriculum/</loc>
+    <loc>https://adriansole.github.io/acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:47+02:00</lastmod>
   </url><url>
-    <loc>acme/about/</loc>
+    <loc>https://adriansole.github.io/acme/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>acme/viajes/berlin/</loc>
+    <loc>https://adriansole.github.io/acme/viajes/berlin/</loc>
   </url><url>
-    <loc>acme/blog/</loc>
+    <loc>https://adriansole.github.io/acme/blog/</loc>
   </url><url>
-    <loc>acme/categories/</loc>
+    <loc>https://adriansole.github.io/acme/categories/</loc>
   </url><url>
-    <loc>acme/contacto/</loc>
+    <loc>https://adriansole.github.io/acme/contacto/</loc>
   </url><url>
-    <loc>acme/blog/entrada1/</loc>
+    <loc>https://adriansole.github.io/acme/blog/entrada1/</loc>
   </url><url>
-    <loc>acme/blog/entrada2/</loc>
+    <loc>https://adriansole.github.io/acme/blog/entrada2/</loc>
   </url><url>
-    <loc>acme/blog/entrada3/</loc>
+    <loc>https://adriansole.github.io/acme/blog/entrada3/</loc>
   </url><url>
-    <loc>acme/fiestas/</loc>
+    <loc>https://adriansole.github.io/acme/fiestas/</loc>
   </url><url>
-    <loc>acme/fiestas/pilar/</loc>
+    <loc>https://adriansole.github.io/acme/fiestas/pilar/</loc>
   </url><url>
-    <loc>acme/tags/</loc>
+    <loc>https://adriansole.github.io/acme/tags/</loc>
   </url>
 </urlset>
