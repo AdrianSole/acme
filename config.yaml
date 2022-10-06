@@ -14,7 +14,7 @@ author:
 menu:
   main: 
     - identifier: about 
-      name: Acerca de 
+      name: Acerca 
       url: /about 
       weight: 100 
     - identifier: contact
